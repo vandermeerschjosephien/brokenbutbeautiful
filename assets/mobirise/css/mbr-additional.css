@@ -1841,26 +1841,26 @@ body {
 .cid-qCbEIM1dS8 .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
-.cid-qCbHJsBlqp {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qCbOgl8gs9 {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qCbHJsBlqp .mbr-slider .carousel-control {
+.cid-qCbOgl8gs9 .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qCbHJsBlqp .mbr-slider .carousel-control-prev {
+.cid-qCbOgl8gs9 .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qCbHJsBlqp .mbr-slider .carousel-control-next {
+.cid-qCbOgl8gs9 .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qCbHJsBlqp .mbr-slider .modal-body .close {
+.cid-qCbOgl8gs9 .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qCbHJsBlqp .mbr-gallery-item > div::before {
+.cid-qCbOgl8gs9 .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1872,7 +1872,56 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qCbHJsBlqp .mbr-gallery-title {
+.cid-qCbOgl8gs9 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-qCbQl1vUeO {
+  background-image: url("../../../assets/images/blur-versie-deur-2000x1334.jpg");
+}
+.cid-qCbQl1vUeO .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-qCbQQZfkaC {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qCbQQZfkaC .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qCbQQZfkaC .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qCbQQZfkaC .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qCbQQZfkaC .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qCbQQZfkaC .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qCbQQZfkaC .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
