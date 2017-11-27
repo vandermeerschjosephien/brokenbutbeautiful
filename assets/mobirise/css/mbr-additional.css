@@ -1769,6 +1769,49 @@ body {
 .cid-qBkmZtzMlP H1 {
   color: #232323;
 }
+.cid-qCbJ0jtwjz {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qCbJ0jtwjz .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qCbJ0jtwjz .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qCbJ0jtwjz .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qCbJ0jtwjz .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qCbJ0jtwjz .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qCbJ0jtwjz .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
 .cid-qBwxc00fbJ {
   background: #ffffff;
 }
@@ -1792,26 +1835,32 @@ body {
     width: 100% !important;
   }
 }
-.cid-qCbv27ULqo {
+.cid-qCbEIM1dS8 {
+  background-image: url("../../../assets/images/achtergrond-senatorium-eliousa-2000x1334.jpg");
+}
+.cid-qCbEIM1dS8 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-qCbHJsBlqp {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qCbv27ULqo .mbr-slider .carousel-control {
+.cid-qCbHJsBlqp .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qCbv27ULqo .mbr-slider .carousel-control-prev {
+.cid-qCbHJsBlqp .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qCbv27ULqo .mbr-slider .carousel-control-next {
+.cid-qCbHJsBlqp .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qCbv27ULqo .mbr-slider .modal-body .close {
+.cid-qCbHJsBlqp .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qCbv27ULqo .mbr-gallery-item > div::before {
+.cid-qCbHJsBlqp .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1823,7 +1872,7 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qCbv27ULqo .mbr-gallery-title {
+.cid-qCbHJsBlqp .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
