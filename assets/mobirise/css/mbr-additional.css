@@ -1844,29 +1844,6 @@ body {
 .cid-qCbEIM1dS8 .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
-.cid-qBwxc00fbJ {
-  background: #ffffff;
-}
-.cid-qBwxc00fbJ .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qBwxc00fbJ .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qBwxc00fbJ figcaption {
-  position: relative;
-}
-.cid-qBwxc00fbJ figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qBwxc00fbJ .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qGskhJVDFw .google-map {
   height: 25rem;
   position: relative;
